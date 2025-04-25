@@ -2,6 +2,10 @@ Why are your eyes closed in that picture?
 
 I was thinking! ☝️🤓
 
+## About Me
+
+I'm from Vancouver, British Columbia, Canada. Right now, I am a second year student the University of Waterloo studying math and data science. I'm most familiar with Python and C++.
+
 ## My Journey: Art -> Math
 
 Growing up, I always thought I would be an artist. I was inspired by comics like Calvin and Hobbes, Pearls Before Swine, Garfield, and Big Nate. I spent all my time drawing in elementary and middle school, hoping to bring humour and epic tales to my classmates the same way those big name cartoonists did. Math was an afterthought during these years - solving equations took time away from drawing. However, the COVID pandemic turned my whole worldview upside down. For the first week of remote lessons, we had to teach ourselves. One thing I learned by myself was how to graph the equation of a line. Once I did it, it hit me. I just used math to draw something. Could math be fun after all?
