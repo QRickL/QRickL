@@ -10,6 +10,6 @@ From there, I explored other equations. I was amazed when I saw secant for the f
 
 Art samples:
 
-<img src="https://github.com/user-attachments/assets/4ecec3ba-9566-45e6-969a-b71bc10e346d" width="300" height="400">
-<img src="https://github.com/user-attachments/assets/415a29c5-a2b0-4319-a99a-dbf21ec06da5" width="300" height="400">
-<img src="https://github.com/user-attachments/assets/9d980b3a-26c6-4745-9f55-49f3ae465172" width="300" height="400">
+<img src="https://github.com/user-attachments/assets/4ecec3ba-9566-45e6-969a-b71bc10e346d" width="270" height="360">
+<img src="https://github.com/user-attachments/assets/415a29c5-a2b0-4319-a99a-dbf21ec06da5" width="270" height="360">
+<img src="https://github.com/user-attachments/assets/9d980b3a-26c6-4745-9f55-49f3ae465172" width="270" height="360">
