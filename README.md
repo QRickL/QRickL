@@ -4,7 +4,7 @@ I was thinking! ☝️🤓
 
 ## About Me
 
-I'm from Vancouver, British Columbia, Canada. Right now, I am a third year student at the University of Waterloo studying math and data science. I'm most familiar with Python and C++.
+I'm from Vancouver, British Columbia, Canada. Right now, I am a third year student at the University of Waterloo majoring in Data Science and minoring in Combinatorics & Optimization.
 
 ## My Journey: Art -> Math
 
