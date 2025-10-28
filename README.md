@@ -4,13 +4,23 @@ I was thinking! ☝️🤓
 
 ## About Me
 
-I'm from Vancouver, British Columbia, Canada. Right now, I am a third year student at the University of Waterloo majoring in Data Science and minoring in Combinatorics & Optimization.
+- Education: third-year at the University of Waterloo, Canada
+- Major: [Data Science](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2)
+- Minor: [Combinatorics & Optimization](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1D1JR0s2)
+- Professional Interests: Machine learning, data science, compilers. Hoping to try distributed systems
+- Personal Interests: Drawing, reading
+- Hometown: Vancouver, Canada
 
-## My Journey: Art -> Math
+## My Journey from Art to Math
 
-Growing up, I always thought I would be an artist. I was inspired by comics like Calvin and Hobbes, Pearls Before Swine, Garfield, and Big Nate. I spent all my time drawing in elementary and middle school, hoping to bring humour and epic tales to my classmates the same way those big name cartoonists did. Math was an afterthought during these years - solving equations took time away from drawing. However, the COVID pandemic turned my whole worldview upside down. For the first week of remote lessons, we had to teach ourselves. One thing I learned by myself was how to graph the equation of a line. Once I did it, it hit me. I just used math to draw something. Could math be fun after all?
+As a kid, I wanted to be a cartoonist. I drew all day, every day, all until grade 9, when COVID hit
 
-From there, I explored other equations. I was amazed when I saw secant for the first time, and jumped out of my seat when I learned about Taylor series. So starting in high school, I shifted my creative focus to math. In grade 12, I had the special opportunity to dual enrol at the University of British Columbia and learn about multivariable calculus. Seeing math in 3D made me love it even more, and cemented my plans to study math in university. So now I find myself at the University of Waterloo pursuing a Bachelor of Mathematics, and I couldn't be happier.
+
+Growing up, I wanted to be an artist. I was inspired by comics like Calvin and Hobbes, Pearls Before Swine, Garfield, and Big Nate. I spent all my time drawing in elementary and middle school, hoping to bring humour and enthralling stories to my classmates the same way those big name cartoonists did. Math was an afterthought during these years - solving equations took time away from drawing. However, the COVID pandemic turned my world upside down. It was during the first week of remote lessons that I learned to graph the equation of a line. Oh my god... I just used math to draw something.
+
+Could math really be fun?
+
+From there, I explored other equations. I was amazed when I saw secant for the first time and jumped out of my seat when I learned about Taylor series. Accordingly, I shifted my creative focus to math. In grade 12, I had the special opportunity to dual enrol at the University of British Columbia and take a course in multivariable calculus. Seeing math in 3D cemented my plans to study it in university. So now I find myself at the University of Waterloo pursuing a Bachelor of Mathematics. What do you think will come next?
 
 Art samples:
 
