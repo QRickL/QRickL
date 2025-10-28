@@ -5,8 +5,8 @@ I was thinking! ☝️🤓
 ## About Me
 
 - Education: third-year at the University of Waterloo, Canada
-- Major: [Data Science](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2)
-- Minor: [Combinatorics & Optimization](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1D1JR0s2)
+- Major: [Data Science](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/MATH-Data-Science1.html)
+- Minor: [Combinatorics & Optimization](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/MATH-Combinatorics-and-Optimization-Minor2.html)
 - Professional Interests: Machine learning, data science, compilers. Hoping to try distributed systems
 - Personal Interests: Drawing, reading
 - Hometown: Vancouver, Canada
