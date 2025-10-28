@@ -2,7 +2,7 @@ I love ice cream!
 
 ## About Me
 
-- Education: third-year at the University of Waterloo, Canada
+- Education: third-year at the [University of Waterloo](https://uwaterloo.ca/math/), Canada
 - Major: [Data Science](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/MATH-Data-Science1.html)
 - Minor: [Combinatorics & Optimization](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/MATH-Combinatorics-and-Optimization-Minor2.html)
 - Professional Interests: Machine learning, data science, compilers. Hoping to try distributed systems
@@ -11,16 +11,23 @@ I love ice cream!
 
 ## My Journey from Art to Math
 
-As a kid, I wanted to be a cartoonist. I drew all day, every day, all until grade 9, when COVID hit
+As a kid, I wanted to be a cartoonist -- there was something so magical about telling stories with pictures. So I drew all day, every day. I hated math because it was useless and took time away from drawing. That's how I felt until COVID hit.
 
+In the first week of remote lessons, I learned to graph the equation of a line. So... I just drew something... using math. Huh???
 
-Growing up, I wanted to be an artist. I was inspired by comics like Calvin and Hobbes, Pearls Before Swine, Garfield, and Big Nate. I spent all my time drawing in elementary and middle school, hoping to bring humour and enthralling stories to my classmates the same way those big name cartoonists did. Math was an afterthought during these years - solving equations took time away from drawing. However, the COVID pandemic turned my world upside down. It was during the first week of remote lessons that I learned to graph the equation of a line. Oh my god... I just used math to draw something.
+I ran ahead and explored other equations. Secant was really cool; its asymptotes blew my mind. Taylor series were even cooler; you're saying every function is a polynomial*? Now I was super invested. I need to know more.
 
-Could math really be fun?
+My mind was blown again when I saw functions of multiple variables. You can draw in 3d with math too??? This was in grade 12, where I had the special opportunity to take a multivariable calculus course at [UBC](https://www.math.ubc.ca).
 
-From there, I explored other equations. I was amazed when I saw secant for the first time and jumped out of my seat when I learned about Taylor series. Accordingly, I shifted my creative focus to math. In grade 12, I had the special opportunity to dual enrol at the University of British Columbia and take a course in multivariable calculus. Seeing math in 3D cemented my plans to study it in university. So now I find myself at the University of Waterloo pursuing a Bachelor of Mathematics. What do you think will come next?
+Since college applications were around the corner, I followed my curiosity and applied to some math programs for university.
 
-Art samples:
+Now I'm at Waterloo, where I'm pursuing a Bachelor of Mathematics and learning about mathematics' numerous applications beyond drawing cool pictures.
+
+Turns out, math wasn't useless after all.
+
+*Terms and conditions may apply
+
+## Art samples:
 
 <img src="https://github.com/user-attachments/assets/4ecec3ba-9566-45e6-969a-b71bc10e346d" width="270" height="360">
 <img src="https://github.com/user-attachments/assets/415a29c5-a2b0-4319-a99a-dbf21ec06da5" width="270" height="360">
