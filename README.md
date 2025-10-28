@@ -1,6 +1,4 @@
-Why are your eyes closed in that picture?
-
-I was thinking! ☝️🤓
+I love ice cream!
 
 ## About Me
 
