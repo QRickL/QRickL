@@ -5,7 +5,7 @@ I love ice cream!
 - Education: third-year at the [University of Waterloo](https://uwaterloo.ca/math/), Canada
 - Major: [Data Science](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/MATH-Data-Science1.html)
 - Minor: [Combinatorics & Optimization](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/MATH-Combinatorics-and-Optimization-Minor2.html)
-- Professional Interests: Machine learning, data science, compilers (hoping to try a compiler role 👀)
+- Professional Interests: Machine learning, data science, compilers (hoping to try a compiler role 👀), education
 - Personal Interests: Drawing, reading
 - Hometown: Vancouver, Canada
 
